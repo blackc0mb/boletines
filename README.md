@@ -1,4 +1,4 @@
 # boletines
-Práctica del curso curso profesional desarrollo web en código facilito.
+Práctica del "Curso profesional desarrollo web" en código facilito.
 
-Esta fue enfocado mas al manejo de JS
+Esta práctica fue enfocada mas al manejo de JS
